@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "時間をとめるラブソング",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T18:24:01.926488Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "時間をとめるラブソング",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_時間をとめるラブソング_サンボマスター.txt"
+    }
+  ]
+}
